@@ -1,9 +1,9 @@
 ## As matrix inversion is usually a costly computation it can be beneficial to 
-## caching the inverse of a matrix rather than compute it repeatedly. 
+## cache the inverse of a matrix rather than compute it repeatedly. 
 ## The following two functions cache the inverse of a matrix
 
 
-## Function makeCacheMatirx makes a special matix object that can cache its 
+## Function makeCacheMatrix makes a special matrix object that can cache its 
 ##inverse to reduce computing load.  
 
 
